@@ -14,4 +14,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=alis-paul&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Leetcode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alis_star_7?theme=dark&font=baloo_2&ext=activity)](https://leetcode.com/alis_star_7)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
